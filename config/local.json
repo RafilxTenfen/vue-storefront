@@ -1,0 +1,12 @@
+{
+    "i18n": {
+        "fullCountryName": "Brasil",
+        "fullLanguageName": "Português",
+        "defaultLanguage": "PT",
+        "defaultCountry": "PT",
+        "defaultLocale": "pt-BR",
+        "currencyCode": "EUR",
+        "currencySign": "EUR",
+        "dateFormat": "HH:mm D-M-YYYY"
+      }
+}
